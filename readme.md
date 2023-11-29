@@ -1,6 +1,6 @@
 #你好，这里是git上传的第一个markdown文档
 
-···C++
+```C++
 #include<bits/stdc++.h>
 using namespace std;
 
